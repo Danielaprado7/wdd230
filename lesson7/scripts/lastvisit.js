@@ -26,6 +26,10 @@ if (localStorage.getItem('lastVisit')) {
 }
 
 localStorage.setItem('lastVisit', moment);
+<<<<<<< HEAD
 
 
   
+=======
+  
+>>>>>>> cd4aedf629e6ccb2e27cec29586e6817fd7b9c2a
