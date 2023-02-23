@@ -1,5 +1,5 @@
 var temperature = 42;
-var windSpeed = 5;
+var windSpeed = 6;
 
 
 function calculateWindChill(temperature, windSpeed) {
